@@ -1,4 +1,4 @@
-package com.example.proyectov;
+package com.example.veterinaria;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

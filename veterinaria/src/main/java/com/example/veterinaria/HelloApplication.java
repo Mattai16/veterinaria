@@ -1,4 +1,4 @@
-package com.example.proyectov;
+package com.example.veterinaria;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
